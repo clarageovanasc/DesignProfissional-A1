@@ -1,55 +1,83 @@
-🚀 Portfólio Acadêmico - Avaliação A1
+ℹ️ Apresentação A1
 
-Disciplina: Design Profissional
+📚 ADS - 1º Semestre
 
-Aluna: Clara Geovana Caldeira da Silva
+Este repositório atua como o Hub Central, reunindo todos os projetos e atividades realizados nas disciplinas do curso de Análise e Desenvolvimento de Sistemas (ADS) ao longo do semestre.
 
-Curso: Análise e Desenvolvimento de Sistemas (1º Semestre)
+🎓 Disciplinas e Repositórios:
 
-Instituição: UDF - Centro Universitário
 
-🎯 Objetivo
 
-Este repositório atua como o Hub Central para a Avaliação A1, centralizando as evidências de aprendizado, o currículo profissional e os links para os projetos técnicos desenvolvidos.
+Ícone
 
-✅ Checklist de Entregáveis
+Disciplina
 
-Abaixo estão os links diretos para as evidências solicitadas:
+Link de Acesso
 
-1. Documentação Profissional
+💡
 
-[x] Processo Seletivo: Visualizar Candidatura
+Algoritmos e Pensamento Computacional
 
-[x] Currículo Profissional: Baixar PDF
+Acessar Repositório Externo
 
-[x] Portfólio Digital: Este próprio repositório GitHub.
+🌐
 
-2. Portfólio Técnico (Repositórios)
+Desenvolvimento Front-End para Web
 
-[x] Algoritmos (C): Acessar Repositório
+Acessar Repositório Externo
 
-[x] Front-End (Web): Acessar Repositório
+📝
 
-[x] Banco de Dados (SQL): Acessar Repositório
+Modelagem de Banco de Dados
 
-📂 Estrutura do Repositório
+Acessar Repositório Externo
 
-Organização dos arquivos e pastas deste portfólio:
+🛠️
 
-Curriculo_LaTex/: Contém a versão em PDF do currículo gerado via código.
+Design Profissional (Este Repositório)
 
-Evidencia_Candidatura/: Comprovantes de aplicação em vagas.
+Ver Evidências Abaixo
 
-Teste_Github/: Atividade prática de validação e comandos Git.
+✅ Checklist de Entregáveis (A1)
 
-imagens/: Recursos visuais utilizados nos projetos.
+Abaixo estão os documentos exigidos para a avaliação de Design Profissional:
 
-🛠️ Tecnologias
+Item
 
-LaTeX: Diagramação do currículo.
+Entregável
 
-Git/GitHub: Versionamento.
+Status
 
-Markdown: Documentação.
+Link de Acesso / Evidência
 
-Desenvolvido por Clara Geovana.
+1.
+
+Processo Seletivo
+
+✅
+
+Visualizar Candidatura
+
+2.
+
+Currículo Profissional
+
+✅
+
+Baixar PDF (LaTeX)
+
+3.
+
+Portfólio (GitHub)
+
+✅
+
+Links na tabela acima.
+
+Nota: Os arquivos de evidência encontram-se nas pastas Evidencia_Candidatura e Curriculo_LaTex deste repositório.
+
+📌 Como Navegar
+
+⚠️ Importante: Ao clicar nos links da primeira tabela, você será redirecionado para os repositórios específicos de cada matéria, onde encontrará o código-fonte completo e os READMEs técnicos detalhados.
+
+🚀 Desenvolvido por Clara Geovana.
