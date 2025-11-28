@@ -11,19 +11,19 @@ Links para os projetos técnicos desenvolvidos no semestre:
 
 Algoritmos e Lógica (C)
 
-Link: https://github.com/clarageovanasc/Algoritmo-e-Pensamento-Computacional
+Link: [Algoritmos e Lógica](https://github.com/clarageovanasc/Algoritmo-e-Pensamento-Computacional)
 
 Destaque: Calculadora Científica e Sistema de Cadastro.
 
 Front-End (Web)
 
-Link: [Algoritmos e Pensamento Computacional](https://github.com/clarageovanasc/Desenvolvimento-Front-End-Para-Web)
+Link: [Front-End (Web)](https://github.com/clarageovanasc/Desenvolvimento-Front-End-Para-Web)
 
 Destaque: Landing Page Materialize e Prova A1.
 
 Banco de Dados (SQL)
 
-Link: https://github.com/clarageovanasc/Modelagem-Banco-de-Dados
+Link: [Banco de Dados (SQL)](https://github.com/clarageovanasc/Modelagem-Banco-de-Dados)
 
 Destaque: Modelagem Cidade Inteligente.
 
