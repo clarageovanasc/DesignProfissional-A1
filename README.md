@@ -17,7 +17,7 @@ Destaque: Calculadora Científica e Sistema de Cadastro.
 
 Front-End (Web)
 
-Link: https://github.com/clarageovanasc/Desenvolvimento-Front-End-Para-Web
+Link: [Algoritmos e Pensamento Computacional](https://github.com/clarageovanasc/Desenvolvimento-Front-End-Para-Web)
 
 Destaque: Landing Page Materialize e Prova A1.
 
